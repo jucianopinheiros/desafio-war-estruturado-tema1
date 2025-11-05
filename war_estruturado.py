@@ -1,13 +1,3 @@
-"""
-War Estruturado - Tema 1
-Arquivo: war_estruturado.py
-
-Mini-jogo em Python que simula territórios com exércitos e ataques (versão textual).
-Feito para envio no GitHub como solução do desafio.
-
-Como executar:
-    python3 war_estruturado.py
-
 Descrição resumida:
 - Representa territórios como dicionário com dono e número de exércitos.
 - Permite dois jogadores (modo alternado) atacarem territórios adversários.
