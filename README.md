@@ -1,30 +1,25 @@
-# War Estruturado - Tema 1
+# 💥 Desafio War Estruturado
 
-Repositório com a solução do desafio **War Estruturado – Tema 1**.
+## 🏫 Faculdade Estácio 
+Projeto acadêmico desenvolvido por Francisco Juciano Pinheiro
+Disciplina: Estrutura de Dados - Conceitos e representação
+Turma: 9001    
+Ano: 2025
 
-## Conteúdo
-- `war_estruturado.py` — Código Python do mini-jogo (texto/CLI).
+---
 
-## Instruções de uso
-1. Certifique-se de ter Python 3 instalado.
-2. No terminal, execute:
-   ```
-   python3 war_estruturado.py
-   ```
-3. Siga as instruções no terminal:
-   - Escolha ação: atacar / fortificar / passar.
-   - Para atacar, informe território de origem e destino (ex.: Brasil).
-   - Para fortificar, informe origem, destino e quantidade de exércitos a mover.
+## 🎯 Descrição do Desafio
 
-## Observações
-- O projeto é intencionalmente simples e focado em estruturas de dados:
-  - Dicionários para representar territórios.
-  - Funções para modularizar ações.
-  - Validações básicas para operações (ex.: não atacar territórios próprios).
-- Pode ser expandido com:
-  - Interface gráfica (Tkinter).
-  - Regras mais próximas do jogo War (várias rolagens por vez, fronteiras entre territórios, etc).
+O objetivo do **Desafio War Estruturado** é aplicar os conceitos de **programação estruturada** e **estruturas de dados** (listas, funções, condicionais e loops) na criação de uma simulação baseada no clássico jogo **War**, onde cada jogador comanda exércitos e disputa territórios.
 
-## Autor
-- Juciano Pinheiro (insira seu usuário GitHub no README quando fizer o commit).
+A proposta visa reforçar a lógica de programação e a capacidade de organizar o código de forma modular, clara e eficiente.
+
+---
+
+## 🧠 Conceitos Envolvidos
+- Estrutura sequencial, condicional e de repetição  
+- Funções e modularização  
+- Manipulação de listas e dicionários  
+- Entrada e saída de dados  
+- Organização lógica de código  
 
