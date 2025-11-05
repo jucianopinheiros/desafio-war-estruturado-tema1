@@ -2,6 +2,7 @@
 
 ## 🏫 Faculdade Estácio 
 Projeto acadêmico desenvolvido por Francisco Juciano Pinheiro
+
 Disciplina: Estrutura de Dados - Conceitos e representação
 Turma: 9001    
 Ano: 2025
